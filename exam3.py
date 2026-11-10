@@ -291,4 +291,6 @@ kim.add_filese('img')
 print(jin.folder)
 print(kim.folder)
 
+print("연습")
+
 
