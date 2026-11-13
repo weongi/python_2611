@@ -110,3 +110,6 @@ arr1 = np.array([1, 2, 3])
 arr2 = np.array([[10, 20, 30],
                  [40, 50, 60]])
 print(arr1 + arr2)
+# arr1의 shape : (3, )
+# arr2의 shape : (2, 3)
+#arr1의 값이 arr2의 각 행에 적용됨
