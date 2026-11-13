@@ -53,6 +53,6 @@ colors =['red', 'blue'] # 각 막대에 적용할 색상
 
 a.bar(x,y, tick_label = labels, color = colors) # 세로 막대
 
-a.barh(x,y, tick_label = labels, color = colors) # 가로막대 
+a.barh(x,y, tick_label = labels, color = colors) # 가로막대  
 plt.show()
 
